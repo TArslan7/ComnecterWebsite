@@ -59,7 +59,7 @@ ComnecterWebsite/
 
 **Comnecter B.V.**  
 Email: [info@comnecter.com](mailto:info@comnecter.com)  
-Phone: +31 20 123 4567
+Phone: +31687718383
 
 ---
 
