@@ -95,9 +95,9 @@ function Footer() {
       }}
     >
       <p><strong>Comnecter B.V.</strong></p>
-      <p>Chamber of Commerce: 12345678 | VAT: NL001234567B01</p>
+      <p>Chamber of Commerce: 94191891 | VAT: NL866672291B01</p>
       <p>Email: <a href="mailto:info@comnecter.com" style={{ color: colors.accent, textDecoration: 'none' }}>info@comnecter.com</a></p>
-      <p>Phone: <a href="tel:+31201234567" style={{ color: colors.accent, textDecoration: 'none' }}>+31 20 123 4567</a></p>
+      <p>Phone: <a href="tel:+31687718383" style={{ color: colors.accent, textDecoration: 'none' }}>+31687718383</a></p>
       <p style={{ marginTop: '1.5rem' }}>
         <a href="#" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} style={{ color: colors.accent, textDecoration: 'underline', cursor: 'pointer' }}>
           Back to top ↑
